@@ -1,7 +1,7 @@
 package bin;
 
 public class HelloWorld {
-
+    // Methode hello string
     private static final String getHelloString() {
         return "hello";
     }
